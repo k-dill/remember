@@ -1,6 +1,6 @@
 {
   "name": "@k-dill/remember",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "A library to help manage and track remembered actions",
   "main": "build/main/index.js",
   "typings": "build/main/index.d.ts",
